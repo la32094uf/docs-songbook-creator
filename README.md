@@ -24,9 +24,9 @@ Column D (BroadOrSmall): Is this a broad or small lyric (BROAD/SMALL)
 
 Column E (LongOrShort): Is it a long or short lyric
 
-Column F (Sequential number): =IF(OR(E2="Lang",D2="Breed"),0,INDIRECT(ADDRESS(ROW()-1, COLUMN()))+1)
+Column F (Sequential number): =IF(OR(E2="Long",D2="Broad"),0,INDIRECT(ADDRESS(ROW()-1, COLUMN()))+1)
 
-Column G (Check): =IF(OR(INDIRECT(ADDRESS(ROW(), COLUMN()-2))="Lang",INDIRECT(ADDRESS(ROW(), COLUMN()-3))="Breed"),IF(ISODD(INDIRECT(ADDRESS(ROW()-1, COLUMN()-1))),"Niet Goed",""),"")
+Column G (Check): =IF(OR(INDIRECT(ADDRESS(ROW(), COLUMN()-2))="Long",INDIRECT(ADDRESS(ROW(), COLUMN()-3))="Broad"),IF(ISODD(INDIRECT(ADDRESS(ROW()-1, COLUMN()-1))),"Not good",""),"")
 
 Column H (NoL): =IF(B2="", 0, LEN(B2) - LEN(SUBSTITUTE(B2, CHAR(10), "")) + 1)
 
