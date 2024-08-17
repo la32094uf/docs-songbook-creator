@@ -1,5 +1,7 @@
 # docs-songbook-creator
-Google sheet and docs script to create a songbook
+Google sheet and docs script to create a songbook with lyrics
+Lyric-songbook
+campfire songbook creator
 
 
 With this google sheet, you create a google-docs songbook for campfire-songs.
