@@ -22,12 +22,14 @@ Copy this doc to your own drive:
 
 https://docs.google.com/document/d/1rJuI7p-X01jVMHJlVm40wECEvHXwEHD8H34lp99zUZk/edit?usp=sharing
 
+Open your copy of the google-doc, and find the id of the doc in your navigation-bar (url).
 
-Open the google-sheet script, and to point to the id your google-doc 
+Open your copy google-sheet script, and to point to the id your google-doc.
 
 
 Use the button in the top of the google-sheet to generate the google-doc based on your own songbook.
 
+(You have to allow the sheet to run, and re-click the button afterwards).
 
 ----
 
