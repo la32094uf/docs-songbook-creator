@@ -61,3 +61,32 @@ Column J (CoBL): =ARRAYFORMULA(INDEX(SPLIT(B2, CHAR(10)), MATCH(MAX(LEN(SPLIT(B2
 Column K (Newpage) Should it start with a pagebreak usage: "New page"
 
 
+
+
+
+Some searchterms, to help people find this script.
+
+	1.	Campfire song collection
+	2.	Outdoor songbook
+	3.	Camping song anthology
+	4.	Fireside songbook
+	5.	Hiking songbook
+	6.	Wilderness songbook
+	7.	Campfire singalong book
+	8.	Camp song guide
+	9.	Outdoor music collection
+	10.	Trail songbook
+
+	1.	Google script to make a songbook for printing
+	2.	Google script to create a printable music collection
+	3.	Google script to generate a print-ready songbook
+	4.	Google script for making a printable song anthology
+	5.	Google script to compile a songbook for printing
+	6.	Google script for creating a song collection ready for print
+	7.	Google script to assemble a printable tune book
+	8.	Google script to design a printable songbook
+	9.	Google script to produce a songbook suitable for printing
+	10.	Google script for crafting a songbook you can print
+  11. Google script to create a printable songbook
+
+
