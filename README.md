@@ -14,6 +14,23 @@ Also you can decide to put a lyric on a new page.
 Any comments / questions / commits are appreciated. 
 
 
+Copy this spreadsheet to your own drive:
+
+https://docs.google.com/spreadsheets/d/1ZU-V0j8aBu1xbTmap_TCJv0XOxTbn4HiI-403qAOfWo/edit?usp=sharing
+
+Copy this doc to your own drive:
+
+https://docs.google.com/document/d/1rJuI7p-X01jVMHJlVm40wECEvHXwEHD8H34lp99zUZk/edit?usp=sharing
+
+
+Open the google-sheet script, and to point to the id your google-doc 
+
+
+Use the button in the top of the google-sheet to generate the google-doc based on your own songbook.
+
+
+----
+
 
 Your google sheet have to look like this:
 
